@@ -106,10 +106,6 @@
 			<id>releases</id>
 			<url>https://github.com/GRUNFELD69/WebServiceInpel.git</url>
 		</repository>
-		<snapshotRepository>
-			<id>snapshots</id>
-			<url>https://github.com/GRUNFELD69/WebServiceInpel.git</url>
-		</snapshotRepository>
 	</distributionManagement>
 
 </project>
